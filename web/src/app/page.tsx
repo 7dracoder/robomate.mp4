@@ -132,7 +132,7 @@ export default function Home() {
         <div className="mx-auto max-w-5xl px-8 py-5 flex items-center justify-between gap-6">
           <Link href="/" className="flex items-center gap-3 transition-opacity hover:opacity-80">
             <GabrielHornLogo />
-            <span className="text-base font-bold tracking-[0.01em] text-white">Aperture</span>
+            <span className="text-base font-bold tracking-[0.01em] text-white">robomate.mp4</span>
           </Link>
 
           <NavAuth />

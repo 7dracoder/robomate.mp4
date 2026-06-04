@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Aperture — Physical Data Marketplace",
+  title: "robomate.mp4 — Physical Data Marketplace",
   description: "Earn money collecting real-world data for AI research",
 };
 
